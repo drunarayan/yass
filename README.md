@@ -1,4 +1,4 @@
-# YASS - Repository for Youth Astronomical Society of Seattle
+#  Stars, Scopes & Python - Spring Break Camp, April 2026 by YASS
 [Link to YASS Camp Flyer](content/YASS_Spring_Break_Camp_Flyer.png)
 
 ## Welcome to our YASS workshop!
@@ -14,9 +14,13 @@ By going through the process of extracting science we will learn much about phys
 
 First, however, we would like you to get familiar with Jupyter Notebook, a kind of all-in-one digital research tool used by over a 150 million researchers worldwide.  You are in great company!
 
-You will need a username to access this notebook. That can be [seen here](usernames.md){:target="_blank"} if you have already confirmed your attendance. Passwords are what you make up on your own. You will have to remember it!  It is OK to write this password down in a proper paper notebook that you should have by your side throughout this workshop.  We will be asking you to note down many things there. The first one will be the password you will use to log in to the Jupyter Notebook! 
+### Before Class Starts
 
-### [Go ahead - click here for your first login!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fyass&branch=main&urlpath=lab%2Ftree%2Fyass%2Fnotebooks%2Fbasics_jupyter%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+You will need a username to access Jupyter Notebooks. That can be [seen here](usernames.md){:target="_blank"} if you have already confirmed your attendance. ````Passwords are what you make up on your own. You will have to remember it!````  It is OK to write this password down in a proper paper notebook that you should have by your side throughout this workshop.  We will be asking you to note down many things there. The first one will be the password you will use to log in to the Jupyter Notebook! 
+
+#### [Go ahead - click here for your first login!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fyass&branch=main&urlpath=lab%2Ftree%2Fyass%2Fnotebooks%2Fbasics_jupyter%2Fintro_to_jupyter.ipynb?reset" target="_blank")
+
+### During Class
 
 ## Click below for all Jupyter Notebooks for this course
 ### [Table of Notebooks](notebooks)
