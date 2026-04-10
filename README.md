@@ -1,4 +1,5 @@
-#  Stars, Scopes & Python - Spring Break Camp, April 2026 by YASS
+#  Stars, Scopes & Python
+Spring Break Camp, April 2026 by YASS updt: Apr 10, 2026
 [Link to YASS Camp Flyer](content/YASS_Spring_Break_Camp_Flyer.png)
 
 ## Welcome to our YASS workshop!
