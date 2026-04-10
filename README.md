@@ -18,5 +18,5 @@ You will need a username to access this notebook. That can be [seen here](userna
 
 ### [Go ahead - click here for your first login!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fyass&branch=main&urlpath=lab%2Ftree%2Fyass%2Fnotebooks%2Fbasics_jupyter%2Fintro_to_jupyter.ipynb?reset" target="_blank")
 
-## Click below for Jupyter Notebooks
+## Click below for all Jupyter Notebooks for this course
 ### [Table of Notebooks](notebooks)
