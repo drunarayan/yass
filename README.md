@@ -1,10 +1,10 @@
 #  Stars, Scopes & Python
-Spring Break Camp, April 2026 by YASS updt: Apr 11, 2026
+Spring Break Camp, April 2026 by YASS updt: Apr 12, 2026
 [Link to YASS Camp Flyer](content/YASS_Spring_Break_Camp_Flyer.png)
 
 ## Welcome to our YASS workshop!
 
-Astronomy these days is all the rage!  We have the James Webb Space Telescope taking images from the very edge of our Universe 28 billion light years Away.  We have been able to see the very first stars that were formed soon after the big bang. [Earendel is just such a star cluster](https://en.wikipedia.org/wiki/WHL0137-LS){:target="_blank"}!
+Astronomy these days is all the rage!  Here is an stupendous event for getting a [cosmic perspective of our universe](https://drunarayan.github.io/python4astronomy/cosmic_perspective/). We have the James Webb Space Telescope taking images from the very edge of our Universe 28 billion light years Away.  We have been able to see the very first stars that were formed soon after the big bang. [Earendel is just such a star cluster](https://en.wikipedia.org/wiki/WHL0137-LS){:target="_blank"}!
 ![](source/Earendel_and_the_Sunrise_Arc_in_the_galaxy_cluster_WHL0137-08.jpg).
 
 You may have some questions by now - how can a star cluster be 28 billion light years away when the Universe is "only" 13.7 billion years old - good question! 
