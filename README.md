@@ -21,7 +21,7 @@ You will need a username to access Jupyter Notebooks. That can be [seen here](us
 
 #### [Go ahead - click here for your first login!](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fyass&branch=main&urlpath=lab%2Ftree%2Fyass%2Fnotebooks%2Fbasics_jupyter%2Fintro_to_jupyter.ipynb?reset"){:target="_blank"}
 
-#### Stump the Chumps Quiz - Write down your Questions and Answers - Each of your will be a Quiz Master!
+#### Stump the Chumps Quiz - Write down your Questions and Answers - Each of you will be a Quiz Master!
 
 Talking of questions and extracting science, I would urge each of you to read this website thoroughly and make notes on some interesting facts about Astronomers, Science of Astronomy, Mathematics or anything clearly stated on this website.  Then formulate 3 questions you can ask any of your fellow students or even the teachers. There are prizes if you stump students, or answer a question yourself. A super prize if you stump the teacher!  This will be your first project. So keep those paper notebooks handy and write down your questions (and answers to them - don't stump yourself!)
 
